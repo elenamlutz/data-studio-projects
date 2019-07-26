@@ -7,10 +7,13 @@
 	.st1{fill:#69B0BF;stroke:#DDDDDD;stroke-opacity:0;}
 	.st2{font-family:'FranklinGothicURW-Boo';}
 	.st3{font-size:11px;}
-	.st4{enable-background:new    ;}
-	.st5{font-size:9px;}
-	.st6{font-size:10px;}
-	.st7{font-size:8px;}
+	.st4{font-size:16px;}
+	.st5{font-size:14px;}
+	.st6{font-size:13px;}
+	.st7{font-size:9px;}
+	.st8{font-size:12px;}
+	.st9{font-size:10px;}
+	.st10{font-size:8px;}
 </style>
 <g transform="translate(10,10)">
 	<g>
@@ -41,7 +44,8 @@
 		<circle class="st1" cx="185" cy="674.4" r="17.3"/>
 		<circle class="st1" cx="142.8" cy="539" r="12.3"/>
 		<circle class="st1" cx="533" cy="160.5" r="12.3"/>
-		<circle class="st1" cx="127.4" cy="576.9" r="12.3"/>
+		
+			<ellipse transform="matrix(0.9951 -9.853759e-02 9.853759e-02 0.9951 -56.2263 15.3613)" class="st1" cx="127.4" cy="576.9" rx="12.3" ry="12.3"/>
 		<circle class="st1" cx="762" cy="431" r="36.8"/>
 		<circle class="st1" cx="570.4" cy="181.6" r="12.3"/>
 		<circle class="st1" cx="304.2" cy="109.4" r="17.3"/>
@@ -49,23 +53,26 @@
 		<circle class="st1" cx="658.5" cy="233.6" r="12.3"/>
 		<circle class="st1" cx="96.9" cy="537" r="17.3"/>
 		<circle class="st1" cx="582" cy="117.2" r="36.8"/>
-		<circle class="st1" cx="125.2" cy="632.9" r="27.4"/>
+		
+			<ellipse transform="matrix(3.327795e-02 -0.9994 0.9994 3.327795e-02 -511.5159 736.9691)" class="st1" cx="125.2" cy="632.9" rx="27.4" ry="27.4"/>
 		<circle class="st1" cx="627.1" cy="698.4" r="21.2"/>
-		<circle class="st1" cx="69.2" cy="312.8" r="17.3"/>
+		
+			<ellipse transform="matrix(3.327792e-02 -0.9994 0.9994 3.327792e-02 -245.7296 371.5523)" class="st1" cx="69.2" cy="312.8" rx="17.3" ry="17.3"/>
 		<circle class="st1" cx="717.1" cy="293.6" r="17.3"/>
 		<circle class="st1" cx="622.4" cy="175" r="17.3"/>
 		<circle class="st1" cx="520.6" cy="94.6" r="12.3"/>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 197.7415 431.5746)" class="st2 st3">Street</text>
-		<text transform="matrix(1 0 0 1 434.4395 431.5746)" class="st2 st3">Hotel or Motel</text>
+		<text transform="matrix(1 0 0 1 434.4395 431.5746)" class="st2 st4">Hotel or Motel</text>
 		<text transform="matrix(1 0 0 1 243.813 516.2)" class="st2 st3">School</text>
-		<text transform="matrix(1 0 0 1 183.9049 235.4323)" class="st2 st3">In Vehicle</text>
+		<text transform="matrix(1 0 0 1 183.9049 235.4323)" class="st2 st5">In Vehicle</text>
 		<text transform="matrix(1 0 0 1 233.4169 578.3679)" class="st2 st3">Restaurant</text>
 		<text transform="matrix(1 0 0 1 332.7444 634.7232)" class="st2 st3">Forest</text>
-		<text transform="matrix(1 0 0 1 390.5091 147.902)" class="st2 st3">Parking Lot</text>
-		<text transform="matrix(1 0 0 1 173.268 517.8433)" class="st4"><tspan x="0" y="0" class="st2 st5">Train</tspan><tspan x="0" y="10.8" class="st2 st5">Station</tspan></text>
-		<text transform="matrix(1 0 0 1 422.9695 716.7447)" class="st2 st3">Outdoor Area</text>
+		<text transform="matrix(1 0 0 1 390.5091 147.902)" class="st2 st6">Parking Lot</text>
+		<text transform="matrix(1 0 0 1 173.268 517.8433)" class="st2 st7">Train</text>
+		<text transform="matrix(1 0 0 1 173.268 528.6433)" class="st2 st7">Station</text>
+		<text transform="matrix(1 0 0 1 422.9695 716.7447)" class="st2 st6">Outdoor Area</text>
 		<text transform="matrix(1 0 0 1 519.2227 213.4745)" class="st2 st3">Bar</text>
 		<text transform="matrix(1 0 0 1 545.0839 643.8813)" class="st2 st3">Alleyway</text>
 		<text transform="matrix(1 0 0 1 240.0394 701.3982)" class="st2 st3">Public Park</text>
@@ -73,29 +80,37 @@
 		<text transform="matrix(1 0 0 1 122.9303 489.1271)" class="st2 st3">Casino</text>
 		<text transform="matrix(1 0 0 1 584.3387 236.362)" class="st2 st3">Store</text>
 		<text transform="matrix(1 0 0 1 157.6729 573.6921)" class="st2 st3">Beach</text>
-		<text transform="matrix(1 0 0 1 642.0822 603.728)" class="st2 st3">Halfway House</text>
+		<text transform="matrix(1 0 0 1 642.0822 603.728)" class="st2 st8">Halfway House</text>
 		<text transform="matrix(1 0 0 1 317.9471 772.66)" class="st2 st3">Hospital</text>
-		<text transform="matrix(1 0 0 1 639.6997 287.9999)" class="st4"><tspan x="0" y="0" class="st2 st3">Office</tspan><tspan x="0" y="13.2" class="st2 st3">Building</tspan></text>
+		<text transform="matrix(1 0 0 1 639.6997 287.9999)" class="st2 st3">Office</text>
+		<text transform="matrix(1 0 0 1 639.6997 301.1999)" class="st2 st3">Building</text>
 		<text transform="matrix(1 0 0 1 681.834 485.717)" class="st2 st3">Porch</text>
 		<text transform="matrix(1 0 0 1 65.9874 486.3731)" class="st2 st3">Boat</text>
 		<text transform="matrix(1 0 0 1 663.9972 363.8807)" class="st2 st3">Nursing Home</text>
-		<text transform="matrix(1 0 0 1 173.2679 619.153)" class="st4"><tspan x="0" y="0" class="st2 st5">Detox</tspan><tspan x="0" y="10.8" class="st2 st5">Center</tspan></text>
-		<text transform="matrix(1 0 0 1 152.5969 701.3986)" class="st2 st6">Cemetery</text>
-		<text transform="matrix(1 0 0 1 114.1952 521.1431)" class="st4"><tspan x="0" y="0" class="st2 st7">Convenience</tspan><tspan x="0" y="9.6" class="st2 st7">Store</tspan></text>
-		<text transform="matrix(1 0 0 1 514.3458 133.5303)" class="st4"><tspan x="0" y="0" class="st2 st5">Rehab </tspan><tspan x="0" y="10.8" class="st2 st5">House</tspan></text>
-		<text transform="matrix(1 0 0 1 53.8095 596.2456)" class="st2 st6">Homeless Shelter</text>
+		<text transform="matrix(1 0 0 1 173.2679 619.153)" class="st2 st7">Detox</text>
+		<text transform="matrix(1 0 0 1 173.2679 629.953)" class="st2 st7">Center</text>
+		<text transform="matrix(1 0 0 1 152.5969 701.3986)" class="st2 st9">Cemetery</text>
+		<text transform="matrix(1 0 0 1 114.1952 521.1431)" class="st2 st10">Convenience</text>
+		<text transform="matrix(1 0 0 1 114.1952 530.7432)" class="st2 st10">Store</text>
+		<text transform="matrix(1 0 0 1 514.3458 133.5303)" class="st2 st7">Rehab </text>
+		<text transform="matrix(1 0 0 1 514.3458 144.3303)" class="st2 st7">House</text>
+		<text transform="matrix(1 0 0 1 53.8095 596.2456)" class="st2 st9">Homeless Shelter</text>
 		<text transform="matrix(1 0 0 1 743.6813 430.9673)" class="st2 st3">Garage</text>
-		<text transform="matrix(1 0 0 1 558.5381 183.5955)" class="st2 st6">Farm</text>
+		<text transform="matrix(1 0 0 1 558.5381 183.5955)" class="st2 st9">Farm</text>
 		<text transform="matrix(1 0 0 1 252.7768 82.321)" class="st2 st3">Railroad Track</text>
-		<text transform="matrix(1 0 0 1 555.9206 742.6459)" class="st4"><tspan x="0" y="0" class="st2 st3">College</tspan><tspan x="0" y="13.2" class="st2 st3">Campus</tspan></text>
-		<text transform="matrix(1 0 0 1 647.1337 220.0691)" class="st2 st5">Church</text>
-		<text transform="matrix(1 0 0 1 45.5699 560.1346)" class="st2 st6">Warehouse</text>
+		<text transform="matrix(1 0 0 1 555.9206 742.6459)" class="st2 st3">College</text>
+		<text transform="matrix(1 0 0 1 555.9206 755.8459)" class="st2 st3">Campus</text>
+		<text transform="matrix(1 0 0 1 647.1337 220.0691)" class="st2 st7">Church</text>
+		<text transform="matrix(1 0 0 1 45.5699 560.1346)" class="st2 st9">Warehouse</text>
 		<text transform="matrix(1 0 0 1 559.093 117.189)" class="st2 st3">Backyard</text>
-		<text transform="matrix(1 0 0 1 96.4595 632.9151)" class="st2 st6">Gas Station</text>
+		<text transform="matrix(1 0 0 1 96.4595 632.9151)" class="st2 st9">Gas Station</text>
 		<text transform="matrix(1 0 0 1 613.0051 698.4412)" class="st2 st3">Stairs</text>
-		<text transform="matrix(1 0 0 1 24.1918 295.4624)" class="st4"><tspan x="0" y="0" class="st2 st5">Health Care</tspan><tspan x="0" y="10.8" class="st2 st5">Facility</tspan></text>
-		<text transform="matrix(1 0 0 1 737.8971 287.9999)" class="st4"><tspan x="0" y="0" class="st2 st3">Penal</tspan><tspan x="0" y="13.2" class="st2 st3">Institution</tspan></text>
-		<text transform="matrix(1 0 0 1 608.6794 169.3423)" class="st4"><tspan x="0" y="0" class="st2 st5">Movie</tspan><tspan x="0" y="10.8" class="st2 st5">Theatre</tspan></text>
+		<text transform="matrix(1 0 0 1 24.1918 295.4624)" class="st2 st7">Health Care</text>
+		<text transform="matrix(1 0 0 1 24.1918 306.2624)" class="st2 st7">Facility</text>
+		<text transform="matrix(1 0 0 1 737.8971 287.9999)" class="st2 st3">Penal</text>
+		<text transform="matrix(1 0 0 1 737.8971 301.1999)" class="st2 st3">Institution</text>
+		<text transform="matrix(1 0 0 1 608.6794 169.3423)" class="st2 st7">Movie</text>
+		<text transform="matrix(1 0 0 1 608.6794 180.1423)" class="st2 st7">Theatre</text>
 		<text transform="matrix(1 0 0 1 503.2746 80.4285)" class="st2 st3">River</text>
 	</g>
 </g>
