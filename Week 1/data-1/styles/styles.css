@@ -39,7 +39,7 @@ body {
 }
 
 .chart-section.wide{
-	width:100%;
+	width: 100%;
 	max-width:1500px;
 }
 
@@ -123,12 +123,14 @@ p.note {
 
 .chart-section {
 	width:100%;
-	max-width:1200px;
-	padding:20px 0px;
+	max-width:900px;
+	padding: 30px;
+	padding-left:100px;
 }
 
 .story-body .chart-section {
-	padding-top:0px;
+	padding-top:15px;
+	width: 100%;
 }
 
 
@@ -138,6 +140,20 @@ p.note {
 	margin-top:20px;
 }
 
+.chart-row1 {
+	display:block;
+	justify-content: space-evenly;
+	margin-top:20px;
+	padding-left: 220px;
+	width: 70%;
+}
+
+.chart-section1 {
+	display: block;
+	margin-top:20px;
+	width: 100%;
+	padding-left: 100px;
+}
 p.chart-title {
 	font-size:1.3rem;
 	font-weight:700;
@@ -157,25 +173,33 @@ p.chart-label {
 	text-transform:uppercase;
 	font-weight:600;
 }
-
-.chart-row .chart {
-	width:100%;
-	padding-right:15px;
-	min-width:calc(25% - 15px);
-
-}
-
-
-
 p.chart-source {
 	font-size:0.85rem;
-	margin:0;
+	margin:auto;
 }
 
-
-
-.chart img {
+.chart-section {
 	width:100%;
+	max-width:900px;
+	padding: 30px;
+	padding-left:100px;
+}
+
+.chart-row2 {
+	display:block;
+	margin-top:20px;
+	padding-right: 100px;
+	width: 70%;
+}
+
+.chart-section2 {
+	display: block;
+	margin-top:20px;
+	width: 200%;
+	padding-right: 100px;
+}
+.chart img {
+	width:80%;
 }
 
 
